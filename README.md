@@ -11,7 +11,7 @@
 </td>
 
 <td align="center">
-<img src="https://img.shields.io/github/followers/0xhit?style=for-the-badge&logo=github&logoColor=white" height="40"/
+<img src="https://img.shields.io/github/followers/0xhiteshkumar&?style=for-the-badge&logo=github&logoColor=white" height="40"/
 </td>
 
 <td align="center">
