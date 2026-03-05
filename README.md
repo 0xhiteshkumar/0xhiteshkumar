@@ -2,6 +2,26 @@
 # 💫 Hi 👋, I'm Hitesh Kumar Kushwaha  
 **2nd Year Cyber Security Student | Cyber Security & Ethical hacking Enthusiast 🇮🇳**
 
+<!-- Professional Stats Grid -->
+<table>
+<tr>
+
+<td align="center">
+<img src="https://komarev.com/ghpvc/?username=0xhiteshkumar&style=for-the-badge&color=0066CC&label=PROFILE%20VIEWS" height="40"/>
+</td>
+
+<td align="center">
+<img src="https://img.shields.io/badge/FOLLOWERS-INVALID-FF0033?style=for-the-badge&logo=github&logoColor=white" height="40"/>
+</td>
+
+<td align="center">
+<img src="https://img.shields.io/badge/FOCUS-CYBER%20SECURITY-0A66C2?style=for-the-badge&logo=kalilinux&logoColor=white" height="40"/>
+</td>
+
+</tr>
+</table>
+  
+
 📧 Email Me 👉 ✉️ hiteshkumarkushwaha748@gmail.com For Collaboration / Projects
 
 - 🎓 **Currently:** 2nd Year B.Tech Student (Cyber Security)  
