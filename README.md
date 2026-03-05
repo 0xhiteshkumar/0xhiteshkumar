@@ -11,7 +11,7 @@
 </td>
 
 <td align="center">
-<img src="https://img.shields.io/badge/FOLLOWERS-INVALID-FF0033?style=for-the-badge&logo=github&logoColor=white" height="40"/>
+<img src="https://img.shields.io/github/followers/0xhit?style=for-the-badge&logo=github&logoColor=white" height="40"/
 </td>
 
 <td align="center">
@@ -44,13 +44,118 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+<h2 align="center">⚡ Cyber Security Arsenal ⚡</h2>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=700&lines=Initializing+Cyber+Security+Toolkit...;Loading+Penetration+Testing+Environment...;Scanning+Network+Tools...;System+Ready"/>
+</p>
+<br>
+<table align="center">
+<tr>
+ <td align="center">
+   
+![Nmap](https://img.shields.io/badge/Nmap-Network%20Scanner-0E76A8?style=for-the-badge)
+</td> 
+<td align="center">
+  
+![Wireshark](https://img.shields.io/badge/Wireshark-Packet%20Analyzer-1679A7?style=for-the-badge)
+</td>
+<td align="center">
+  
+![Metasploit](https://img.shields.io/badge/Metasploit-Exploit%20Framework-3C3C3C?style=for-the-badge)
+</td>
+<td align="center">
+  
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-Web%20Security-F47B20?style=for-the-badge)
+</td>
+</tr>
+<tr>
+<td align="center">
+  
+![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-WiFi%20Security-2ECC71?style=for-the-badge)
+</td>
+<td align="center">
+  
+![John the Ripper](https://img.shields.io/badge/John%20The%20Ripper-Password%20Cracker-CC0000?style=for-the-badge)
+</td>
+<td align="center">
+
+![Hydra](https://img.shields.io/badge/Hydra-Brute%20Force-4CAF50?style=for-the-badge)
+</td>
+<td align="center">
+  
+![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-Web%20Scanner-00549F?style=for-the-badge)
+
+</td>
+</tr>
+</table>
+
+<h2 align="center">💻 Tech Stack</h2>
+
+<table align="center">
+<tr>
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=linux" /><br>
+<b>Linux</b>
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=kali" /><br>
+<b>Kali Linux</b>
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=python" /><br>
+<b>Python</b>
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=bash" /><br>
+<b>Bash</b>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=git" /><br>
+<b>Git</b>
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=github" /><br>
+<b>GitHub</b>
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=docker" /><br>
+<b>Docker</b>
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=aws" /><br>
+<b>AWS</b>
+
+</td>
+</tr>
+</table>
+
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=0xhiteshkumar&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=0xhiteshkumar&theme=codeSTACKr&hide_border=false)<br/>
