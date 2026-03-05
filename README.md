@@ -21,7 +21,7 @@
 </tr>
 </table>
   <p align="left">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Cyber+Security+Student;Ethical+Hacker;Network+Security+Learner;Open+Source+Contributor"/>
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Cyber+Security+Student;Ethical+Hacking+Enthusiast;Network+Security+Learner;Open+Source+Contributor"/>
 </p>
 
 ---
