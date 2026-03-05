@@ -20,7 +20,11 @@
 
 </tr>
 </table>
-  
+  <p align="left">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Cyber+Security+Student;Ethical+Hacker;Network+Security+Learner;Open+Source+Contributor"/>
+</p>
+
+---
 
 📧 Email Me 👉 ✉️ hiteshkumarkushwaha748@gmail.com For Collaboration / Projects
 
@@ -39,12 +43,13 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Hiteshkumarkushwaha) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__hiteshkumar09__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Hiteshkumarkushwaha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hiteshkumarkushwaha748@gamil.com) 
 
 <!-- Snake Game Repo View -->
+# 🐍 Contribution Snake
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+<p align="center">
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
+</p>
 
-
+---
 <h2 align="center">⚡ Cyber Security Arsenal ⚡</h2>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=700&lines=Initializing+Cyber+Security+Toolkit...;Loading+Penetration+Testing+Environment...;Scanning+Network+Tools...;System+Ready"/>
@@ -167,15 +172,13 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=0xhiteshkumar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!--
-**0xhiteshkumar/0xhiteshkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to r
+<a href="https://github.com/0xhiteshkumar">
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+
