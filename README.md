@@ -90,32 +90,32 @@
 </tr>
 </table>
 
-<h2 align="center">💻 Tech Stack</h2>
+<h2 align="left">💻 Tech Stack</h2>
 
-<table align="center">
+<table align="centre">
 <tr>
-<td align="center">
+<td align="centre">
 
 <img src="https://skillicons.dev/icons?i=linux" /><br>
 <b>Linux</b>
 
 </td>
 
-<td align="center">
+<td align="centre">
 
 <img src="https://skillicons.dev/icons?i=kali" /><br>
 <b>Kali Linux</b>
 
 </td>
 
-<td align="center">
+<td align="centre">
 
 <img src="https://skillicons.dev/icons?i=python" /><br>
 <b>Python</b>
 
 </td>
 
-<td align="center">
+<td align="centre">
 
 <img src="https://skillicons.dev/icons?i=bash" /><br>
 <b>Bash</b>
@@ -124,43 +124,39 @@
 </tr>
 
 <tr>
-<td align="center">
+<td align="centre">
 
 <img src="https://skillicons.dev/icons?i=git" /><br>
 <b>Git</b>
 
 </td>
 
-<td align="center">
+<td align="centre">
 
 <img src="https://skillicons.dev/icons?i=github" /><br>
 <b>GitHub</b>
 
 </td>
 
-<td align="center">
+<td align="centre">
 
 <img src="https://skillicons.dev/icons?i=docker" /><br>
 <b>Docker</b>
 
 </td>
 
-<td align="center">
+<td align="centre">
 
 <img src="https://skillicons.dev/icons?i=aws" /><br>
 <b>AWS</b>
-
 </td>
 </tr>
 </table>
 
-
-
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=0xhiteshkumar&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=0xhiteshkumar&theme=codeSTACKr&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xhiteshkumar&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
